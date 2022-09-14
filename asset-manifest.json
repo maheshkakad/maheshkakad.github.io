@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8b9a8430.css",
-    "main.js": "/static/js/main.b41c8fec.js",
+    "main.js": "/static/js/main.2252f494.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/Coding.gif": "/static/media/Coding.54de1c2854e13f48aaaa.gif",
     "static/media/Pharmacy.png": "/static/media/Pharmacy.bbeaf2cf4410ae77ceab.png",
@@ -14,11 +14,11 @@
     "static/media/IMG_20220705_171637.jpg": "/static/media/IMG_20220705_171637.65eacf03b98113b3b430.jpg",
     "index.html": "/index.html",
     "main.8b9a8430.css.map": "/static/css/main.8b9a8430.css.map",
-    "main.b41c8fec.js.map": "/static/js/main.b41c8fec.js.map",
+    "main.2252f494.js.map": "/static/js/main.2252f494.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b9a8430.css",
-    "static/js/main.b41c8fec.js"
+    "static/js/main.2252f494.js"
   ]
 }
