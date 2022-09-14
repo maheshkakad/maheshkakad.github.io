@@ -1,0 +1,53 @@
+.contact {
+   background-image: linear-gradient(-45deg, black, white);
+
+  background-size: 200%;
+  margin-top: 50px;
+  /* height: 300px; */
+}
+
+.contact p{
+    text-align: center;
+    margin: 10px;
+  color: black;
+
+}
+
+.number{
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.number  p:nth-child(1) {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  margin: 20px;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+}
+.fab{
+    margin: 10px 30px;
+    font-size: 30px;
+    color: white;
+}
+.copyright{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    font-size: 12px;
+}
+#phone-number{
+  font-family: 'Font Awesome 5 Free';
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+.copyright{
+    font-size: 8px;
+ }
+}
