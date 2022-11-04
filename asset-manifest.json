@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb28f690.css",
-    "main.js": "/static/js/main.f3fea07b.js",
+    "main.css": "/static/css/main.10878cba.css",
+    "main.js": "/static/js/main.bfdee781.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/Coding.gif": "/static/media/Coding.54de1c2854e13f48aaaa.gif",
     "static/media/Pharmacy.png": "/static/media/Pharmacy.bbeaf2cf4410ae77ceab.png",
@@ -10,17 +10,17 @@
     "static/media/Wrike.png": "/static/media/Wrike.d05e7232226b67188940.png",
     "static/media/fogtree.jpg": "/static/media/fogtree.950d4c4e05476e6c70bb.jpg",
     "static/media/Indeed.png": "/static/media/Indeed.600ef1079f9718383def.png",
-    "static/media/Mahesh_Kakad_Resume.pdf": "/static/media/Mahesh_Kakad_Resume.ee8b32c31b836c5743e3.pdf",
+    "static/media/Mahesh_Kakad_Resume.pdf": "/static/media/Mahesh_Kakad_Resume.b4004d26a71628aaa023.pdf",
     "static/media/Clockify.png": "/static/media/Clockify.5e38a2b9760e9210e66a.png",
     "static/media/IMG_20220705_171637.jpg": "/static/media/IMG_20220705_171637.65eacf03b98113b3b430.jpg",
     "static/media/tictactoe.png": "/static/media/tictactoe.9bd59d6ec395601b2aa7.png",
     "index.html": "/index.html",
-    "main.eb28f690.css.map": "/static/css/main.eb28f690.css.map",
-    "main.f3fea07b.js.map": "/static/js/main.f3fea07b.js.map",
+    "main.10878cba.css.map": "/static/css/main.10878cba.css.map",
+    "main.bfdee781.js.map": "/static/js/main.bfdee781.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb28f690.css",
-    "static/js/main.f3fea07b.js"
+    "static/css/main.10878cba.css",
+    "static/js/main.bfdee781.js"
   ]
 }
